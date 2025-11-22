@@ -1,0 +1,5 @@
+title: UAV-ISAC Publications
+theme: minima
+plugins:
+  - jekyll-feed
+markdown: kramdown
